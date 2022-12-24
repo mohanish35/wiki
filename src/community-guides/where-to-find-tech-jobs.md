@@ -23,6 +23,7 @@ Not to mention job portals like shine, indeed
 9. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
 10. [findwork.dev](https://findwork.dev)
 11. [echo jobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)
+12. [All Remote Jobs](https://allremote.jobs/)
 
 ## Job Boards for HackerNews Jobs
 
